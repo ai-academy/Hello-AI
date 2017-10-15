@@ -1,4 +1,4 @@
 # Hello-AI
 AI Project
-# About leann-AI
+# About learn-AI
 A place for high school kids to learn about AI
